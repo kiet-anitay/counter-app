@@ -36,7 +36,10 @@ function App() {
           -
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code>
+        </p>
+        <p>
+          New para
         </p>
       </div>
       <p className="read-the-docs">
