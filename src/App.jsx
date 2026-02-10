@@ -42,7 +42,7 @@ function App() {
           New para
         </p>
         <h1>
-          h2 tag
+          h1 tag
         </h1>
       </div>
       <p className="read-the-docs">
