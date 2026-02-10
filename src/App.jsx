@@ -42,11 +42,7 @@ function App() {
           New para
         </p>
         <h1>
-<<<<<<< HEAD
-          h1 tag
-=======
           h1 tag added for workkflow
->>>>>>> 55e000e (workflow test)
         </h1>
       </div>
       <p className="read-the-docs">
