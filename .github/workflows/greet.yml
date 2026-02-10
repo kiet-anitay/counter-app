@@ -1,0 +1,12 @@
+name: First CI Workflow
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: action/checkout@v3
+     - name: Print Message
+       run: echo "Hello world"
+     
+     
+     
