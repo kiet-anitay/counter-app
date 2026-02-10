@@ -41,6 +41,9 @@ function App() {
         <p>
           New para
         </p>
+        <h1>
+          h2 tag
+        </h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more and commit add one more commit
