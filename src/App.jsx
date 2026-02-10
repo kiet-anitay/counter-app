@@ -36,8 +36,14 @@ function App() {
           -
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code>
         </p>
+        <p>
+          New para
+        </p>
+        <h1>
+          h2 tag
+        </h1>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more and commit add one more commit
