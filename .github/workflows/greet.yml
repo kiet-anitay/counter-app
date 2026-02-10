@@ -1,14 +1,13 @@
 name: First CI Workflow
-on: [push]
+on:
+  - push
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     - name: checkout
-       uses: actions/checkout@v4
-     
-     - name: Print Message
-       run: echo "Hello world"
+      - uses: action/checkout@v4
+      - name: Print Message
+        run: echo "Hello world"
      
      
      
